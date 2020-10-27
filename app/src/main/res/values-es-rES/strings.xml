@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculador de números primos</string>
+    <string name="definicion">Calculadora simple para obtener el número primo en una posición determinada</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="escribirPosicion">POSICION</string>
+    <string name="resultado">El número primo encontrado es</string>
+    <string name="enla">En la posición</string>
+    <string name="unoydiez">Valor entre 1 y 10000 POR FAVOR</string>
+    <string name="done">CALCULADO</string>
+</resources>

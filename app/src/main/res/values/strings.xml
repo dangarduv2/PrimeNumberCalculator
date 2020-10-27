@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prime Number Clculator</string>
+    <string name="definicion">Simple calculator to obtain the prime number on a given position</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="escribirPosicion">POSITION</string>
+    <string name="resultado">Prime number found is</string>
+    <string name="enla">In position</string>
+    <string name="unoydiez">Value from 1 to 10000 PLEASE</string>
+    <string name="done">CALCULATED</string>
+
+</resources>
